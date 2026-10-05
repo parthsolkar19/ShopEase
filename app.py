@@ -941,8 +941,6 @@ elif st.session_state.page == "Billing":
 
                     st.session_state.cart = []
 
-                    st.balloons()
-
 
 # ============================================================
 # SALES HISTORY
